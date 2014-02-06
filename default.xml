@@ -425,7 +425,7 @@
   <project path="vendor/asus" name="CarbonDev/proprietary_vendor_asus" />
   <project path="vendor/bn" name="proprietary_vendor_bn" remote="tm" revision="cm-10.2" />
   <project path="vendor/broadcom" name="proprietary_vendor_broadcom" remote="tm" revision="cm-10.2" />
-  <project path="vendor/carbon" name="CarbonDev/android_vendor_carbon" />
+  <project path="vendor/carbon" name="Kevindeving/android_vendor_carbon" />
   <project path="vendor/elan" name="proprietary_vendor_elan" remote="tm" revision="cm-10.2" />
   <project path="vendor/htc" name="CarbonDev/proprietary_vendor_htc" />
   <project path="vendor/imgtec" name="proprietary_vendor_imgtec" remote="tm" revision="cm-10.2" />
@@ -441,5 +441,8 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="AOKP/vendor_tmobile_libs_com.tmobile.themes" remote="gh" revision="jb-mr2" />
   <project path="vendor/tmobile/providers/ThemeManager" name="AOKP/vendor_tmobile_providers_ThemeManager" remote="gh" revision="jb-mr2" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" remote="cm" revision="cm-10.1" />
+  <project name="Kevindeving/android_device_samsung_golden" path="device/samsung/golden" revision="cm-10.2" />
+  <project name="OliverG96/android_kernel_samsung_golden" path="kernel/samsung/golden" revision="cm-10.2" />
+  <project name="OliverG96/android_vendor_samsung_golden" path="vendor/samsung/golden" revision="cm-10.2" />
 </manifest>
 
