@@ -274,7 +274,7 @@
   <project path="hardware/broadcom/libbt" name="CyanogenMod/android_hardware_broadcom_libbt" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" remote="cm" revision="cm-10.2" groups="broadcom_wlan" />
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
-  <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" remote="cm" revision="cm-10.2" groups="pdk" />
+  <project path="hardware/libhardware" name="TeamCanjica/android_hardware_libhardware" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="hardware/libhardware_legacy" name="TeamCanjica/android_hardware_libhardware_legacy" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" remote="cm" revision="cm-10.2" />
   <project path="hardware/qcom/audio" name="CyanogenMod/android_hardware_qcom_audio" remote="cm" revision="cm-10.2" groups="qcom" />
@@ -442,7 +442,11 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="AOKP/vendor_tmobile_providers_ThemeManager" remote="gh" revision="jb-mr2" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" remote="cm" revision="cm-10.1" />
   <project name="Kevindeving/android_device_samsung_golden" path="device/samsung/golden" revision="cm-10.2" />
+  <project name="Kevindeving/android_device_samsung_codina" path="device/samsung/codina" revision="cm-10.2" />
+  <project name="TeamCanjica/android_device_samsung_u8500-common" path="device/samsung/u8500-common" revision="cm-10.2" />
   <project name="OliverG96/android_kernel_samsung_golden" path="kernel/samsung/golden" revision="cm-10.2" />
+  <project name="TeamCanjica/android_kernel_samsung_codina" path="kernel/samsung/codina" revision="cm-10.2" />
   <project name="OliverG96/android_vendor_samsung_golden" path="vendor/samsung/golden" revision="cm-10.2" />
+  <project name="TeamCanjica/android_vendor_samsung_u8500-common" path="vendor/samsung/u8500-common" revision="cm-10.2" />
 </manifest>
 
