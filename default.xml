@@ -445,7 +445,7 @@
   <project name="Kevindeving/android_device_samsung_codina" path="device/samsung/codina" revision="cm-10.2" />
   <project name="TeamCanjica/android_device_samsung_u8500-common" path="device/samsung/u8500-common" revision="cm-10.2" />
   <project name="OliverG96/android_kernel_samsung_golden" path="kernel/samsung/golden" revision="cm-10.2" />
-  <project name="TeamCanjica/android_kernel_samsung_u8500" path="kernel/samsung/u8500" revision="cm-10.2" />
+  <project name="TeamCanjica/android_kernel_samsung_codina" path="kernel/samsung/u8500" revision="cm-10.2" />
   <project name="OliverG96/android_vendor_samsung_golden" path="vendor/samsung/golden" revision="cm-10.2" />
   <project name="TeamCanjica/android_vendor_samsung_u8500-common" path="vendor/samsung/u8500-common" revision="cm-10.2" />
 </manifest>
